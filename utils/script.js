@@ -4,3 +4,5 @@ const addSurname2 =()=>{
 }
 
 let a = 10;
+
+let d = 1000;
