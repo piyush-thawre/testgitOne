@@ -13,3 +13,8 @@ let againprac = "sdcsds";
 const forNewBranch = ()=>{
     console.log("Hello new branch");
 }
+
+
+const forNewBranch2 = ()=>{
+    console.log("Hello new branch again");
+}
