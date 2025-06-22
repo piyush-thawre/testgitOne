@@ -9,3 +9,7 @@ let d = 1000;
 
 
 let againprac = "sdcsds";  
+
+const forNewBranch = ()=>{
+    console.log("Hello new branch");
+}
